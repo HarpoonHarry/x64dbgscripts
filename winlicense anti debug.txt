@@ -1,7 +1,7 @@
 cls
 // thx ayin-sama for the method
 
-msg "[+] Anti debug bypass Winlicense 3.1.3 by Aero"
+msg "[+] Anti debug bypass Winlicense 3.1.3 by HarpoonHarry"
 //Cleaning breakpoints and shit
 bphwc
 bc
